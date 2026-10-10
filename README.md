@@ -1,7 +1,4 @@
-# AI Engineering · Class 2 — LangChain & Your First Agent (runnable code)
-
-Every file here matches a code block from the Class 2 deck. They are
-self-contained — run any one of them directly.
+# LangChain & Agent 
 
 ## One-time setup
 ```bash
